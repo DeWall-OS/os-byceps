@@ -58,7 +58,7 @@ services:
       SERVER_NAME_SITE: cozylan.example
       UWSGI_ADDRESS: byceps-apps:5000
     ports:
-      - "8080:80"
+      - "18080:80"
     networks:
       - proxy
 

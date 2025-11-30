@@ -35,3 +35,6 @@ __pycache__
 messages.pot
 
 secret_key.txt
+
+# Visual Studio
+/.vs
